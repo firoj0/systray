@@ -1,6 +1,6 @@
-package main
+tab package main
 
-import (
+import (shift
 	"fmt"
 	"io/ioutil"
 	"time"
